@@ -93,7 +93,19 @@
 
 <h2>🤝🏻 Connect with Me:</h2>
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-afzaal-zahoor)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mian786001)
-  [![Personal Website](https://img.shields.io/badge/Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](linktr.ee/MianAfzaalZahoor)
+  <div class="card">
+    <a href="https://www.linkedin.com/in/mian-afzaal-zahoor">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+  <div class="card">
+    <a href="https://twitter.com/mian786001">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+  </div>
+  <div class="card">
+    <a href="https://linktr.ee/MianAfzaalZahoor">
+      <img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
+    </a>
+  </div>
 </p>
