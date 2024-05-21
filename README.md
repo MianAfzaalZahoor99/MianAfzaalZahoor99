@@ -1,55 +1,65 @@
-## Hi 👋, I'm **Mian Afzaal Zahoor**  
+<h1 align="center">Hi 👋, I'm <strong>Mian Afzaal Zahoor</strong></h1>
 
-I am a Seasoned Full Stack Developer
+<p align="center">I am a Seasoned Full Stack Developer</p>
 
-### 🌐 Professional Overview:
-I specialize in Software Development with a focus on Web and Mobile applications. I am known for innovative, forward-thinking strategies and a comprehensive understanding of diverse technologies. I aim to deliver tailored web applications that drive client success in dynamic and start-up settings.
+<h2>🌐 Professional Overview:</h2>
+<p>I specialize in Software Development with a focus on Web and Mobile applications. I am known for innovative, forward-thinking strategies and a comprehensive understanding of diverse technologies. I aim to deliver tailored web applications that drive client success in dynamic and start-up settings.</p>
 
-### 👨‍💻 All of my projects are available on [GitHub](https://github.com/MianAfzaalZahoor99)
+<h2>👨‍💻 All of my projects are available on <a href="https://github.com/MianAfzaalZahoor99">GitHub</a></h2>
 
-### 💬 Ask me about:
-- React
-- Full Stack Development
-- Node.js
-- TypeScript
-- Vue.js
-- JavaScript
-- Ruby on Rails
-- Redis
-- GraphQL
-- React Native
+<h2>💬 Ask me about:</h2>
+<ul>
+  <li>React</li>
+  <li>Full Stack Development</li>
+  <li>Node.js</li>
+  <li>TypeScript</li>
+  <li>Vue.js</li>
+  <li>JavaScript</li>
+  <li>Ruby on Rails</li>
+  <li>Redis</li>
+  <li>GraphQL</li>
+  <li>React Native</li>
+</ul>
 
-### 📫 Reach me via [Email](mailto:mianafzaalzahoor@gmail.com)
+<h2>📫 Reach me via <a href="mailto:mianafzaalzahoor@gmail.com">Mian Afzaal Zahoor</a></h2>
 
-### 📄 Know about my recent experiences: [Resume](https://linktr.ee/MianAfzaalZahoor)
+<h2>📄 Know about my recent experiences: <a href="https://linktr.ee/MianAfzaalZahoor">Linktree</a></h2>
 
-### 🔭 I’m currently working on:
-- My market products as a side hustle
+<h2>🔭 I’m currently working on:</h2>
+<p>My own market products as a side hustle</p>
 
-### 🌱 Lately, I'm learning:
-- DevOps
-- AWS
-- CI/CD
+<h2>🌱 Lately, I'm learning:</h2>
+<p>DevOps</p>
+<p>AWS</p>
+<p>CI/CD</p>
 
-### 👯 I’m looking to collaborate on:
-- Any Open Source Project
+<h2>👯 I’m looking to collaborate on:</h2>
+<p>Any Open Source Project</p>
 
-### ⚡ Fun fact:
-- I love to speak publicly and engage with the community.
+<h2>⚡ Fun fact:</h2>
+<p>I love to speak publicly and engage with the community.</p>
 
-### 💻 Tech Stack:
-- **Frontend:** React, Next.js, RTK, Redux, TypeScript, JavaScript, CSS, Bootstrap
-- **Backend:** Node.js, Nest.js, Ruby on Rails (ROR), MongoDB, Express.js
-- **Database & DevOps:** MongoDB, PostgreSQL, Firebase, Docker
-- **Additional Technologies:** TypeScript, Next.js, React Native, VueJs
+<h2>💻 Tech Stack:</h2>
+<ul>
+  <li><strong>Frontend:</strong> React, Next.js, RTK, Redux, TypeScript, JavaScript, CSS, Bootstrap</li>
+  <li><strong>Backend:</strong> Node.js, Nest.js, Ruby on Rails (ROR), MongoDB, Express.js</li>
+  <li><strong>Database & DevOps:</strong> MongoDB, PostgreSQL, Firebase, Docker</li>
+  <li><strong>Additional Technologies:</strong> TypeScript, Next.js, React Native, VueJs</li>
+</ul>
 
-### 😇 My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MianAfzaalZahoor99&show_icons=true&theme=radical)
+<h2>😇 My GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MianAfzaalZahoor99&show_icons=true&theme=radical" alt="Your GitHub Stats">
+</p>
 
-### 🏆 My trophy stats so far:
-![Trophy Stats](https://github-profile-trophy.vercel.app/?username=MianAfzaalZahoor99&theme=radical)
+<h2>🏆 My trophy stats so far:</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MianAfzaalZahoor99&theme=radical" alt="Trophy Stats">
+</p>
 
-### 🤝🏻 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/mian-afzaal-zahoor/)
-- [Twitter](https://twitter.com/mian786001)
-- [Personal Website](linktr.ee/MianAfzaalZahoor)
+<h2>🤝🏻 Connect with Me:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mian-afzaal-zahoor/">LinkedIn</a> •
+  <a href="https://twitter.com/mian786001">Twitter</a> •
+  <a href="linktr.ee/MianAfzaalZahoor">Personal Website</a>
+</p>
