@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi 👋, I'm **Mian Afzaal Zahoor**  
 
-I'm **Mian Afzaal Zahoor**  
 I am a Seasoned Full Stack Developer
 
 ### 🌐 Professional Overview:
